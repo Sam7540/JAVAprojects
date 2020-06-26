@@ -1,0 +1,16 @@
+I have made a intresting pattern using JAVA. I hope you will like it. Happy Coding :).
+
+****Output****
+
+Enter the size of the pattern (Only in odd numbers):
+5
+Your structure formed of 5 size is:
+***Processing data***
+
+1   C B A 
+2   D     
+3 4 * 5 6 
+    E   7
+H G F   8
+
+This pattern will form of size: 3, 5, 7, 9, 11.
