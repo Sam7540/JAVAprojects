@@ -1,6 +1,7 @@
 package hackerrank;
 import java.util.*;
-
+ 
+/* Author: Soumyajit */
 
 class Difference {
   	private int[] elements;
