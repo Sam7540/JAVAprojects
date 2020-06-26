@@ -1,0 +1,20 @@
+I have made a program that will find smallest and biggest substring from a given string of specified length. I hope you will like it. Happy Coding :).
+
+****Output****
+Enter the string:
+welcometojava
+Enter the integer
+4
+All the permutations of string are:
+1-> welc
+2-> elco
+3-> lcom
+4-> come
+5-> omet
+6-> meto
+7-> etoj
+8-> toja
+9-> ojav
+10-> java
+String having minimum priority is: come
+String having maximum priority is: welc
