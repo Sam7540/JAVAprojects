@@ -1,0 +1,4 @@
+Here I  have made a "QR Code Generator" program in java. You have to just enter the text to be converted and the location where the QR code to be saved and that's it.
+Your QR code will be generated at specified location
+
+NOTE: I have also provided all the libraries that should be included before running this program. 
