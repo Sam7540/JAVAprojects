@@ -1,0 +1,17 @@
+Hi friends, Here I have created a program of Encrypting text using Ceaser cipher in JAVA. I have used very simple and straightforward approach. My program include methods 
+like Encryption, Decryption and Enchanced Encryption(i.e. Encryption using two keys). I hope you will enjoy it. Happy Coding :)
+
+*********Output*********
+
+Enter your string:
+My favourite animal is Dog.
+*****Menu*****
+1. Encryption
+2. Decryption
+3. Enhanced Encryption
+Enter your choice: 
+1
+Enter the key:
+9361
+Your Encrypted Text is:
+Nz gbwpvsjuf bojnbm jt Eph.
