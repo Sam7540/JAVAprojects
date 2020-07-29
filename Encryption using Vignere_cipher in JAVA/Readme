@@ -1,0 +1,16 @@
+Hi friends, Here I have created a program of Encrypting text using Vignere cipher in JAVA. I have used very simple and straightforward approach. 
+My program include both methods i.e. Encryption and Decryption. I hope you will enjoy it. Happy Coding :)
+
+*******Output*******
+
+Enter your text:
+My favourite animal is Dog.
+Enter your key:
+encryption
+*****Menu****
+1. Encryption
+2. Decryption
+Enter your choice: 
+1
+Your Encrypted Text is:
+Ql hrtdnzwgi npzkpe qg Qst.
