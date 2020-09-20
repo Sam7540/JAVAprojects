@@ -1,4 +1,5 @@
-Here, I have created a program to validate Credit/Debit Card number, I have used Luhn's Algorithm to validate the numbers entered by user. My Program can validate 4 types of card:
+Here, I have created a program to validate Credit/Debit Card number, I have used Luhn's Algorithm to validate the numbers entered by user. 
+My Program can validate 4 types of card:
 1. RUPAY
 2. VISA
 3. MASTERCARD
